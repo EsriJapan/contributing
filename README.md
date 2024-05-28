@@ -10,7 +10,7 @@ Issues について
 
 ESRIジャパン GitHub アカウントはサンプル アプリケーションによって開発製品の利用方法を理解したり、オープンソース プロジェクトを介して ArcGIS の開発者が相互にコミュニケーションを行ったりする場を提供する目的で運営されています。
 
-Issues ではプロジェクトに関連する様々な課題を投稿したり、議論することを前提としていますので、ESRIジャパンへのご質問や ArcGIS 製品の技術サポートが必要な場合は、ESRIジャパンまで[お問い合わせ](https://esrij.smartseminar.jp/public/application/add/356?__CAMCID=JfKCrKCgLg-248&__CAMSID=fenbgxgfjGpd-85&__CAMVID=gcnYCfIekhgEG&_c_d=1)ください。
+Issues ではプロジェクトに関連する様々な課題を投稿したり、議論することを前提としていますので、ESRIジャパンへのご質問や ArcGIS 製品の技術サポートが必要な場合は、ESRIジャパンまで[お問い合わせ](https://www.esrij.com/contact/)ください。
 
 ArcGIS 開発者の貢献について
 ------------
